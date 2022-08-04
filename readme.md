@@ -43,5 +43,3 @@ https://devdocs.io/
 https://pythontutor.com/
 
 nodejs
-
-update content for branch working
